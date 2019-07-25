@@ -14,6 +14,6 @@ module.exports.autenticar = function(application, req, res){
         res.render('login', { dadosForm });
         return;
     }else{
-        res.send('tudo sdfghjklkjhgfdfghjkok');
+        res.send('tudo testsdlkasjdljdflskd');
     }
 }
